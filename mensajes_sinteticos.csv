@@ -1,0 +1,299 @@
+id,mensaje,categoria,urgente,origen,grupo
+1,"Estimados, me sale que mi usuario esta bloqueado por intentos fallidos, ayuda Por favor respondan pronto.",cuenta,no,sintetico,73
+2,me llegan correos de la tienda y nunca me suscribi quiero darme de baja,cuenta,no,sintetico,67
+3,"Estimados, El código de verificación por mensaje de texto no me llega Gracias.",cuenta,no,sintetico,57
+4,venden al por mayor? tengo un negocio pequeno y quiero cotizar,otro,no,sintetico,80
+5,"Hola, olvidé mi contraseña y el correo de recuperación nunca llega Quedo atento.",cuenta,no,sintetico,52
+6,"quiero saber el estado de mi envio, el numero de pedido es 48213",envios,no,sintetico,49
+7,Les escribo para proponer una alianza con mi marca de ropa,otro,no,sintetico,94
+8,Quiero cambiar el correo electrónico asociado a mi cuenta,cuenta,no,sintetico,54
+9,Mi pedido salió de la bodega hace una semana y no ha pasado de la misma ciudad,envios,no,sintetico,47
+10,me cobraron dos veces el mismo pedido y necesito que me devuelvan uno de los cobros hoy,pagos,si,sintetico,1
+11,"Mi pedido debía llegar el lunes y todavía no aparece, necesito saber dónde está",envios,no,sintetico,26
+12,hice la transferencia hace tres dias y el pedido sigue en estado pendiente de pago,pagos,si,sintetico,5
+13,"Estimados, excelente servicio, seguiré comprando con ustedes Por favor respondan pronto.",otro,no,sintetico,97
+14,Sugiero que pongan fotos reales de los productos y no solo las del fabricante,otro,no,sintetico,89
+15,Olvidé mi contraseña y el correo de recuperación nunca llega,cuenta,no,sintetico,52
+16,"Buenas tardes, Gracias por la atención, la asesora fue muy amable Quedo atento.",otro,no,sintetico,86
+17,"Alguien más tiene acceso a mi cuenta, veo pedidos que no reconozco",cuenta,si,sintetico,74
+18,El paquete llegó con la caja rota y el producto estaba golpeado,envios,no,sintetico,27
+19,"Hola equipo, Me llegó el pedido y la talla no corresponde a la que compré Espero su respuesta.",envios,no,sintetico,37
+20,"Buen día, necesito corregir los datos de facturación, puse mal el NIT Muchas gracias por su ayuda.",pagos,no,sintetico,22
+21,Me salió un cargo duplicado en la cuenta de ahorros por una sola compra,pagos,si,sintetico,13
+22,quiero reprogramar la entrega porque no voy a estar en casa,envios,no,sintetico,39
+23,La entrega estaba programada para hoy y nadie ha llamado Muchas gracias por su ayuda.,envios,si,sintetico,48
+24,"Me entregaron un pedido que no es el mío, venía otro producto",envios,no,sintetico,29
+25,"Buenas tardes, recibí el producto con el empaque abierto, parece usado Gracias.",envios,no,sintetico,44
+26,la guia de rastreo lleva cinco dias sin actualizarse,envios,no,sintetico,28
+27,tienen alguna tienda en barranquilla?,otro,no,sintetico,91
+28,¿Por qué me cobran el envío por separado si compré dos productos? Muchas gracias por su ayuda.,envios,no,sintetico,46
+29,Me cobraron el envío aunque la promoción decía envío gratis,pagos,no,sintetico,16
+30,"La transportadora dice que no encontró mi dirección, pero la puse bien",envios,no,sintetico,35
+31,"Buen día, ¿Venden al por mayor? Tengo un negocio pequeño y quiero cotizar Gracias.",otro,no,sintetico,80
+32,no puedo guardar mi tarjeta en el perfil la pagina se queda en blanco,cuenta,no,sintetico,71
+33,"Buenas tardes, el paquete fue devuelto al remitente sin avisarme Quedo atento.",envios,si,sintetico,40
+34,¿Hacen envíos a zonas rurales o solo a ciudades principales?,envios,no,sintetico,36
+35,El enlace para restablecer la contraseña dice que ya expiró,cuenta,no,sintetico,70
+36,mi pedido debia llegar el lunes y todavia no aparece necesito saber donde esta,envios,no,sintetico,26
+37,Tengo una duda: ¿la tienda tiene política de cambios por talla?,otro,no,sintetico,100
+38,"Hola equipo, me sale un error al intentar entrar con mi cuenta de Google Quedo atento.",cuenta,no,sintetico,66
+39,"Estimados, El reembolso me llegó incompleto, faltan 25 mil pesos Muchas gracias por su ayuda.",pagos,si,sintetico,17
+40,tengo una duda: la tienda tiene politica de cambios por talla?,otro,no,sintetico,100
+41,"Estimados, quiero pagar con PSE pero me sale un error al elegir mi banco Espero su respuesta.",pagos,no,sintetico,4
+42,"El reembolso me llegó incompleto, faltan 25 mil pesos",pagos,si,sintetico,17
+43,tienen programa de puntos o descuentos para clientes frecuentes?,otro,no,sintetico,85
+44,"Necesito corregir los datos de facturación, puse mal el NIT",pagos,no,sintetico,22
+45,"Buen día, ¿Tienen alguna tienda en Barranquilla?",otro,no,sintetico,91
+46,"Hola equipo, ¿Cómo activo la verificación en dos pasos? Por favor respondan pronto.",cuenta,no,sintetico,62
+47,"No puedo guardar mi tarjeta en el perfil, la página se queda en blanco",cuenta,no,sintetico,71
+48,"Hola equipo, quería felicitarlos, el pedido llegó rápido y el producto es excelente",otro,no,sintetico,77
+49,"Buen día, no puedo guardar mi tarjeta en el perfil, la página se queda en blanco Quedo atento.",cuenta,no,sintetico,71
+50,Me llegó el pedido y la talla no corresponde a la que compré,envios,no,sintetico,37
+51,"Hola, no me llegó la factura electrónica de mi compra, ¿me la pueden reenviar? Gracias.",pagos,no,sintetico,6
+52,"Buen día, ¿Esta chaqueta es impermeable o solo resistente al agua? Espero su respuesta.",otro,no,sintetico,90
+53,¿Pueden recomendarme un portátil para estudiar ingeniería con presupuesto de dos millones?,otro,no,sintetico,87
+54,El código de verificación por mensaje de texto no me llega,cuenta,no,sintetico,57
+55,pedi un medicamento de venta libre y necesito que llegue hoy es posible?,envios,si,sintetico,42
+56,"Estimados, ¿Me pueden enviar el catálogo de la nueva temporada? Quedo atento.",otro,no,sintetico,99
+57,El repartidor dejó el paquete con un vecino que no conozco Muchas gracias por su ayuda.,envios,no,sintetico,45
+58,"Hola, la transportadora dice que no encontró mi dirección, pero la puse bien Por favor respondan pronto.",envios,no,sintetico,35
+59,"Buenas tardes, me cobraron el envío aunque la promoción decía envío gratis",pagos,no,sintetico,16
+60,el repartidor dejo el paquete con un vecino que no conozco,envios,no,sintetico,45
+61,"Hola, recibí un correo diciendo que cambiaron mi contraseña y yo no fui Por favor respondan pronto.",cuenta,si,sintetico,61
+62,no me llego la factura electronica de mi compra me la pueden reenviar?,pagos,no,sintetico,6
+63,falto un articulo en mi pedido solo llegaron dos de los tres productos,envios,no,sintetico,33
+64,¿Cómo cambio el nombre que aparece en mi perfil?,cuenta,no,sintetico,75
+65,como elimino mi cuenta y mis datos personales de la tienda?,cuenta,no,sintetico,56
+66,como cambio el nombre que aparece en mi perfil?,cuenta,no,sintetico,75
+67,Quiero reprogramar la entrega porque no voy a estar en casa,envios,no,sintetico,39
+68,el codigo de verificacion por mensaje de texto no me llega,cuenta,no,sintetico,57
+69,no puedo iniciar sesion me dice que mi contrasena es incorrecta,cuenta,no,sintetico,51
+70,¿Cómo activo la verificación en dos pasos?,cuenta,no,sintetico,62
+71,"Recibí el producto con el empaque abierto, parece usado",envios,no,sintetico,44
+72,¿Por qué el valor que me cobraron es mayor al que aparecía en el carrito?,pagos,no,sintetico,3
+73,"Buen día, pagué con tarjeta pero la página me dice que el pago no fue aprobado y ya me descontaron la plata Quedo atento.",pagos,si,sintetico,2
+74,me aplicaron un cobro que no reconozco en mi extracto creo que fue de su tienda,pagos,si,sintetico,7
+75,La tarjeta me la rechaza siempre en su página pero en otras tiendas sí funciona,pagos,no,sintetico,10
+76,¿Cómo funciona la garantía de los electrodomésticos?,otro,no,sintetico,81
+77,"Excelente servicio, seguiré comprando con ustedes",otro,no,sintetico,97
+78,cancele el pedido y todavia no me reembolsan el dinero ya pasaron dos semanas,pagos,si,sintetico,11
+79,alguien entro a mi cuenta y hizo compras que yo no hice,cuenta,si,sintetico,53
+80,necesito el comprobante de pago para presentarlo en mi empresa,pagos,no,sintetico,15
+81,gracias por la atencion la asesora fue muy amable,otro,no,sintetico,86
+82,cuando vuelve a estar disponible el audifono que agotaron?,otro,no,sintetico,84
+83,necesito que el pedido llegue antes del viernes porque es un regalo,envios,si,sintetico,34
+84,no recuerdo con que correo me registre me pueden ayudar a encontrarlo?,cuenta,no,sintetico,68
+85,quiero trabajar con ustedes donde envio mi hoja de vida?,otro,no,sintetico,82
+86,el cupon de descuento no se aplico al momento de pagar que hago?,pagos,no,sintetico,8
+87,¿Cuál es el horario de atención de sus tiendas los domingos?,otro,no,sintetico,76
+88,mi pedido salio de la bodega hace una semana y no ha pasado de la misma ciudad,envios,no,sintetico,47
+89,el producto llego roto y lo necesitaba para un evento manana,envios,si,sintetico,50
+90,alguien mas tiene acceso a mi cuenta veo pedidos que no reconozco,cuenta,si,sintetico,74
+91,"Estimados, no recuerdo con qué correo me registré, ¿me pueden ayudar a encontrarlo? Quedo atento.",cuenta,no,sintetico,68
+92,"Estimados, no me deja registrarme, dice que el correo ya existe pero nunca he comprado Quedo atento.",cuenta,no,sintetico,59
+93,"Hola, ¿Pueden recomendarme un portátil para estudiar ingeniería con presupuesto de dos millones? Espero su respuesta.",otro,no,sintetico,87
+94,¿Puedo recoger mi pedido en una tienda física en vez de recibirlo? Gracias.,envios,no,sintetico,41
+95,"Buen día, Me entregaron un pedido que no es el mío, venía otro producto Gracias.",envios,no,sintetico,29
+96,"Buen día, El paquete llegó con la caja rota y el producto estaba golpeado",envios,no,sintetico,27
+97,"Hola, mi pedido debía llegar el lunes y todavía no aparece, necesito saber dónde está Espero su respuesta.",envios,no,sintetico,26
+98,"Me hicieron un cobro después de devolver el producto, esto es un abuso",pagos,si,sintetico,20
+99,me sale un error al intentar entrar con mi cuenta de google,cuenta,no,sintetico,66
+100,me salio un cargo duplicado en la cuenta de ahorros por una sola compra,pagos,si,sintetico,13
+101,necesito cambiar la direccion guardada en mi perfil,cuenta,no,sintetico,65
+102,pueden recomendarme un portatil para estudiar ingenieria con presupuesto de dos millones?,otro,no,sintetico,87
+103,"Hola equipo, quiero trabajar con ustedes, ¿dónde envío mi hoja de vida? Quedo atento.",otro,no,sintetico,82
+104,¿Puedo recoger mi pedido en una tienda física en vez de recibirlo?,envios,no,sintetico,41
+105,Me dieron un número de guía que no funciona en la página de la transportadora,envios,no,sintetico,43
+106,"Gracias por la atención, la asesora fue muy amable",otro,no,sintetico,86
+107,Quiero actualizar mi número de celular en el perfil,cuenta,no,sintetico,58
+108,Quiero cambiar el medio de pago de un pedido que aún no se ha enviado,pagos,no,sintetico,9
+109,"Hola, faltó un artículo en mi pedido, solo llegaron dos de los tres productos Espero su respuesta.",envios,no,sintetico,33
+110,"Hola, ¿Pueden cambiar la dirección de entrega? Me equivoqué de barrio Muchas gracias por su ayuda.",envios,si,sintetico,30
+111,"Buenas tardes, me gustaría que agregaran más opciones de productos para mascotas",otro,no,sintetico,79
+112,"Pedí un medicamento de venta libre y necesito que llegue hoy, ¿es posible?",envios,si,sintetico,42
+113,"No recuerdo con qué correo me registré, ¿me pueden ayudar a encontrarlo?",cuenta,no,sintetico,68
+114,quiero cambiar el medio de pago de un pedido que aun no se ha enviado,pagos,no,sintetico,9
+115,"Me aplicaron un cobro que no reconozco en mi extracto, creo que fue de su tienda",pagos,si,sintetico,7
+116,"Hola, ¿Cómo funciona la garantía de los electrodomésticos? Por favor respondan pronto.",otro,no,sintetico,81
+117,el enlace para restablecer la contrasena dice que ya expiro,cuenta,no,sintetico,70
+118,quiero cambiar el correo electronico asociado a mi cuenta,cuenta,no,sintetico,54
+119,"No me deja registrarme, dice que el correo ya existe pero nunca he comprado",cuenta,no,sintetico,59
+120,"Buen día, no puedo ver mi historial de pedidos, la sección sale vacía",cuenta,no,sintetico,64
+121,"Hola equipo, ¿Cuándo vuelve a estar disponible el audífono que agotaron? Por favor respondan pronto.",otro,no,sintetico,84
+122,¿Tienen programa de puntos o descuentos para clientes frecuentes?,otro,no,sintetico,85
+123,Necesito cambiar la dirección guardada en mi perfil,cuenta,no,sintetico,65
+124,"Quiero trabajar con ustedes, ¿dónde envío mi hoja de vida?",otro,no,sintetico,82
+125,quiero unificar mis dos cuentas porque cree una por error,cuenta,no,sintetico,72
+126,El paquete fue devuelto al remitente sin avisarme,envios,si,sintetico,40
+127,"Estimados, ¿Cuánto se demora el envío a Cali? Muchas gracias por su ayuda.",envios,no,sintetico,32
+128,¿Se puede pagar en cuotas sin interés con tarjeta de crédito?,pagos,no,sintetico,12
+129,quiero saber el estado de mi envio el numero de pedido es 48213,envios,no,sintetico,49
+130,"Estimados, Alguien entró a mi cuenta y hizo compras que yo no hice Por favor respondan pronto.",cuenta,si,sintetico,53
+131,¿Cuáles son las medidas exactas de este escritorio?,otro,no,sintetico,95
+132,"Buenas tardes, el enlace para restablecer la contraseña dice que ya expiró Gracias.",cuenta,no,sintetico,70
+133,"Buenas tardes, no encuentro la categoría de libros en el menú, ¿sigue existiendo? Por favor respondan pronto.",otro,no,sintetico,96
+134,"Estimados, intenté pagar con Nequi y la app se queda cargando sin confirmar Gracias.",pagos,no,sintetico,18
+135,¿Me pueden enviar el catálogo de la nueva temporada?,otro,no,sintetico,99
+136,"Buenas tardes, ¿Tienen este modelo de zapatos en color negro y talla 40?",otro,no,sintetico,78
+137,Me sale un error al intentar entrar con mi cuenta de Google,cuenta,no,sintetico,66
+138,como funciona la garantia de los electrodomesticos?,otro,no,sintetico,81
+139,"Hola, pagué un pedido y ahora me aparece que lo debo, ¿está bien?",pagos,si,sintetico,23
+140,el reembolso me llego incompleto faltan 25 mil pesos,pagos,si,sintetico,17
+141,necesito que el pedido llegue antes del viernes porque es un regalo Muchas gracias por su ayuda.,envios,si,sintetico,34
+142,como devuelvo un producto que no me gusto? aun esta sellado,otro,no,sintetico,88
+143,necesito cambiar la dirección guardada en mi perfil Por favor respondan pronto.,cuenta,no,sintetico,65
+144,"Buenas tardes, El producto llegó roto y lo necesitaba para un evento mañana Muchas gracias por su ayuda.",envios,si,sintetico,50
+145,¿Esta chaqueta es impermeable o solo resistente al agua?,otro,no,sintetico,90
+146,El domiciliario nunca llegó y la plataforma dice que ya me entregaron,envios,si,sintetico,31
+147,hace dos semanas hice el pedido y sigue diciendo preparando envio,envios,no,sintetico,38
+148,mi cuenta aparece con el nombre de otra persona,cuenta,no,sintetico,60
+149,¿Cuándo vuelve a estar disponible el audífono que agotaron?,otro,no,sintetico,84
+150,cual es el horario de atencion de sus tiendas los domingos?,otro,no,sintetico,76
+151,"No puedo iniciar sesión, me dice que mi contraseña es incorrecta",cuenta,no,sintetico,51
+152,La aplicación me cierra la sesión cada vez que la abro,cuenta,no,sintetico,63
+153,pague un pedido y ahora me aparece que lo debo esta bien?,pagos,si,sintetico,23
+154,"Buen día, cancelé el pedido y todavía no me reembolsan el dinero, ya pasaron dos semanas Muchas gracias por su ayuda.",pagos,si,sintetico,11
+155,Quiero pagar con PSE pero me sale un error al elegir mi banco,pagos,no,sintetico,4
+156,"Quería felicitarlos, el pedido llegó rápido y el producto es excelente",otro,no,sintetico,77
+157,"Hola equipo, mi pedido salió de la bodega hace una semana y no ha pasado de la misma ciudad Gracias.",envios,no,sintetico,47
+158,"Buen día, ¿Cómo elimino mi cuenta y mis datos personales de la tienda? Quedo atento.",cuenta,no,sintetico,56
+159,El repartidor dejó el paquete con un vecino que no conozco,envios,no,sintetico,45
+160,"Me llegan correos de la tienda y nunca me suscribí, quiero darme de baja",cuenta,no,sintetico,67
+161,¿Venden al por mayor? Tengo un negocio pequeño y quiero cotizar,otro,no,sintetico,80
+162,"Estimados, me aplicaron un cobro que no reconozco en mi extracto, creo que fue de su tienda",pagos,si,sintetico,7
+163,"me estan cobrando una suscripcion que nunca pedi, quiero que la cancelen ya",pagos,si,sintetico,25
+164,me entregaron un pedido que no es el mio venia otro producto,envios,no,sintetico,29
+165,la transportadora dice que no encontro mi direccion pero la puse bien,envios,no,sintetico,35
+166,Intenté pagar con Nequi y la app se queda cargando sin confirmar,pagos,no,sintetico,18
+167,la aplicación me cierra la sesión cada vez que la abro,cuenta,no,sintetico,63
+168,me hicieron un cobro despues de devolver el producto esto es un abuso,pagos,si,sintetico,20
+169,¿Por qué me aparece el pago como rechazado si mi banco dice que fue aprobado?,pagos,no,sintetico,21
+170,"Buenas tardes, mi cuenta fue suspendida por actividad sospechosa, pero yo solo compré una vez",cuenta,si,sintetico,69
+171,"Hola equipo, el domiciliario nunca llegó y la plataforma dice que ya me entregaron Quedo atento.",envios,si,sintetico,31
+172,el paquete fue devuelto al remitente sin avisarme,envios,si,sintetico,40
+173,van a hacer descuentos en el dia sin iva?,otro,no,sintetico,93
+174,"Buenas tardes, Me hicieron un cobro después de devolver el producto, esto es un abuso Gracias.",pagos,si,sintetico,20
+175,puedo recoger mi pedido en una tienda fisica en vez de recibirlo?,envios,no,sintetico,41
+176,Quiero unificar mis dos cuentas porque creé una por error,cuenta,no,sintetico,72
+177,Necesito que el pedido llegue antes del viernes porque es un regalo,envios,si,sintetico,34
+178,la tarjeta me la rechaza siempre en su pagina pero en otras tiendas si funciona,pagos,no,sintetico,10
+179,Necesito el comprobante de pago para presentarlo en mi empresa,pagos,no,sintetico,15
+180,quisiera saber si ofrecen servicio de instalacion para los televisores,otro,no,sintetico,92
+181,queria felicitarlos el pedido llego rapido y el producto es excelente,otro,no,sintetico,77
+182,quiero actualizar mi numero de celular en el perfil,cuenta,no,sintetico,58
+183,la aplicacion me cierra la sesion cada vez que la abro,cuenta,no,sintetico,63
+184,¿Tienen este modelo de zapatos en color negro y talla 40?,otro,no,sintetico,78
+185,"No puedo ver mi historial de pedidos, la sección sale vacía",cuenta,no,sintetico,64
+186,por que el valor que me cobraron es mayor al que aparecia en el carrito?,pagos,no,sintetico,3
+187,hacen envios a zonas rurales o solo a ciudades principales?,envios,no,sintetico,36
+188,me cobraron el envio aunque la promocion decia envio gratis,pagos,no,sintetico,16
+189,sugiero que pongan fotos reales de los productos y no solo las del fabricante,otro,no,sintetico,89
+190,por que me aparece el pago como rechazado si mi banco dice que fue aprobado?,pagos,no,sintetico,21
+191,pague contra entrega y el domiciliario me dijo que el valor era distinto al de la orden,pagos,no,sintetico,14
+192,"Buenas tardes, quiero cambiar el correo electrónico asociado a mi cuenta Espero su respuesta.",cuenta,no,sintetico,54
+193,excelente servicio seguire comprando con ustedes,otro,no,sintetico,97
+194,"Buen día, la página se ve muy lenta en mi celular, sería bueno que la mejoren Gracias.",otro,no,sintetico,83
+195,el domiciliario nunca llego y la plataforma dice que ya me entregaron,envios,si,sintetico,31
+196,"Hola, la tarjeta me la rechaza siempre en su página pero en otras tiendas sí funciona Muchas gracias por su ayuda.",pagos,no,sintetico,10
+197,quiero actualizar mi número de celular en el perfil Gracias.,cuenta,no,sintetico,58
+198,necesito corregir los datos de facturacion puse mal el nit,pagos,no,sintetico,22
+199,no me deja registrarme dice que el correo ya existe pero nunca he comprado,cuenta,no,sintetico,59
+200,"Buenas tardes, ¿Tienen programa de puntos o descuentos para clientes frecuentes? Por favor respondan pronto.",otro,no,sintetico,85
+201,¿Cuánto se demora el envío a Cali?,envios,no,sintetico,32
+202,mi cuenta fue suspendida por actividad sospechosa pero yo solo compre una vez,cuenta,si,sintetico,69
+203,cuanto se demora el envio a cali?,envios,no,sintetico,32
+204,el paquete llego con la caja rota y el producto estaba golpeado,envios,no,sintetico,27
+205,Hice la transferencia hace tres días y el pedido sigue en estado pendiente de pago,pagos,si,sintetico,5
+206,"Buenas tardes, ¿Se puede pagar en cuotas sin interés con tarjeta de crédito? Gracias.",pagos,no,sintetico,12
+207,"Buen día, hace dos semanas hice el pedido y sigue diciendo preparando envío Quedo atento.",envios,no,sintetico,38
+208,"Hola, ¿Van a hacer descuentos en el Día sin IVA? Quedo atento.",otro,no,sintetico,93
+209,"Hola equipo, ¿Cómo cambio el nombre que aparece en mi perfil? Gracias.",cuenta,no,sintetico,75
+210,"no puedo iniciar sesión, me dice que mi contraseña es incorrecta Quedo atento.",cuenta,no,sintetico,51
+211,"Faltó un artículo en mi pedido, solo llegaron dos de los tres productos",envios,no,sintetico,33
+212,quiero pagar con pse pero me sale un error al elegir mi banco,pagos,no,sintetico,4
+213,La entrega estaba programada para hoy y nadie ha llamado,envios,si,sintetico,48
+214,"Buen día, Pagué contra entrega y el domiciliario me dijo que el valor era distinto al de la orden",pagos,no,sintetico,14
+215,mi cuenta aparece con el nombre de otra persona Por favor respondan pronto.,cuenta,no,sintetico,60
+216,"El cupón de descuento no se aplicó al momento de pagar, ¿qué hago?",pagos,no,sintetico,8
+217,"Cancelé el pedido y todavía no me reembolsan el dinero, ya pasaron dos semanas",pagos,si,sintetico,11
+218,Pagué con tarjeta pero la página me dice que el pago no fue aprobado y ya me descontaron la plata,pagos,si,sintetico,2
+219,"Estimados, quiero saber el estado de mi envio, el numero de pedido es 48213 Por favor respondan pronto.",envios,no,sintetico,49
+220,¿Van a hacer descuentos en el Día sin IVA?,otro,no,sintetico,93
+221,recibi un correo diciendo que cambiaron mi contrasena y yo no fui,cuenta,si,sintetico,61
+222,la entrega estaba programada para hoy y nadie ha llamado,envios,si,sintetico,48
+223,"Estimados, quiero reprogramar la entrega porque no voy a estar en casa Gracias.",envios,no,sintetico,39
+224,los productos de esta marca son originales?,otro,no,sintetico,98
+225,me pueden enviar el catalogo de la nueva temporada?,otro,no,sintetico,99
+226,"La página se ve muy lenta en mi celular, sería bueno que la mejoren",otro,no,sintetico,83
+227,¿Cómo elimino mi cuenta y mis datos personales de la tienda?,cuenta,no,sintetico,56
+228,se puede pagar en cuotas sin interes con tarjeta de credito?,pagos,no,sintetico,12
+229,"Buenas tardes, me llegan correos de la tienda y nunca me suscribí, quiero darme de baja Por favor respondan pronto.",cuenta,no,sintetico,67
+230,¿Pueden cambiar la dirección de entrega? Me equivoqué de barrio,envios,si,sintetico,30
+231,Me cobraron dos veces el mismo pedido y necesito que me devuelvan uno de los cobros hoy,pagos,si,sintetico,1
+232,"Buenas tardes, hice la transferencia hace tres días y el pedido sigue en estado pendiente de pago Quedo atento.",pagos,si,sintetico,5
+233,"Me estan cobrando una suscripcion que nunca pedi, quiero que la cancelen ya",pagos,si,sintetico,25
+234,"Buen día, quiero unificar mis dos cuentas porque creé una por error Quedo atento.",cuenta,no,sintetico,72
+235,me llego el pedido y la talla no corresponde a la que compre,envios,no,sintetico,37
+236,la pagina se ve muy lenta en mi celular seria bueno que la mejoren,otro,no,sintetico,83
+237,"Hola equipo, quiero cambiar el medio de pago de un pedido que aún no se ha enviado Gracias.",pagos,no,sintetico,9
+238,"No me llegó la factura electrónica de mi compra, ¿me la pueden reenviar?",pagos,no,sintetico,6
+239,me sale que mi usuario esta bloqueado por intentos fallidos ayuda,cuenta,no,sintetico,73
+240,Me gustaría que agregaran más opciones de productos para mascotas,otro,no,sintetico,79
+241,tienen este modelo de zapatos en color negro y talla 40?,otro,no,sintetico,78
+242,"Pagué un pedido y ahora me aparece que lo debo, ¿está bien?",pagos,si,sintetico,23
+243,¿Tienen alguna tienda en Barranquilla?,otro,no,sintetico,91
+244,recibi el producto con el empaque abierto parece usado,envios,no,sintetico,44
+245,Quisiera saber si ofrecen servicio de instalación para los televisores,otro,no,sintetico,92
+246,"Estimados, alguien más tiene acceso a mi cuenta, veo pedidos que no reconozco Espero su respuesta.",cuenta,si,sintetico,74
+247,me bloquearon la cuenta sin explicacion y tengo un pedido pendiente,cuenta,si,sintetico,55
+248,Mi cuenta aparece con el nombre de otra persona,cuenta,no,sintetico,60
+249,"Ya pagué y no me llegó ningún correo de confirmación, no sé si quedó registrado",pagos,no,sintetico,19
+250,pueden cambiar la direccion de entrega? me equivoque de barrio,envios,si,sintetico,30
+251,como activo la verificacion en dos pasos?,cuenta,no,sintetico,62
+252,"Hola, ¿Cómo devuelvo un producto que no me gustó? Aún está sellado Gracias.",otro,no,sintetico,88
+253,"Hola, sugiero que pongan fotos reales de los productos y no solo las del fabricante Espero su respuesta.",otro,no,sintetico,89
+254,me estan cobrando una suscripcion que nunca pedi quiero que la cancelen ya,pagos,si,sintetico,25
+255,el saldo a favor de mi devolucion no aparece en mi cuenta,pagos,no,sintetico,24
+256,La guía de rastreo lleva cinco días sin actualizarse,envios,no,sintetico,28
+257,ya pague y no me llego ningun correo de confirmacion no se si quedo registrado,pagos,no,sintetico,19
+258,"Hola equipo, ¿Por qué me aparece el pago como rechazado si mi banco dice que fue aprobado?",pagos,no,sintetico,21
+259,"Estimados, quisiera saber si ofrecen servicio de instalación para los televisores Espero su respuesta.",otro,no,sintetico,92
+260,el saldo a favor de mi devolución no aparece en mi cuenta Por favor respondan pronto.,pagos,no,sintetico,24
+261,"Buenas tardes, ya pagué y no me llegó ningún correo de confirmación, no sé si quedó registrado Muchas gracias por su ayuda.",pagos,no,sintetico,19
+262,cuales son las medidas exactas de este escritorio?,otro,no,sintetico,95
+263,"Buenas tardes, les escribo para proponer una alianza con mi marca de ropa Por favor respondan pronto.",otro,no,sintetico,94
+264,Alguien entró a mi cuenta y hizo compras que yo no hice,cuenta,si,sintetico,53
+265,¿Cuál es el horario de atención de sus tiendas los domingos? Espero su respuesta.,otro,no,sintetico,76
+266,la guía de rastreo lleva cinco días sin actualizarse,envios,no,sintetico,28
+267,El producto llegó roto y lo necesitaba para un evento mañana,envios,si,sintetico,50
+268,no puedo ver mi historial de pedidos la seccion sale vacia,cuenta,no,sintetico,64
+269,"Estimados, me dieron un número de guía que no funciona en la página de la transportadora Por favor respondan pronto.",envios,no,sintetico,43
+270,"Buen día, Me salió un cargo duplicado en la cuenta de ahorros por una sola compra Por favor respondan pronto.",pagos,si,sintetico,13
+271,Recibí un correo diciendo que cambiaron mi contraseña y yo no fui,cuenta,si,sintetico,61
+272,"No encuentro la categoría de libros en el menú, ¿sigue existiendo?",otro,no,sintetico,96
+273,no encuentro la categoria de libros en el menu sigue existiendo?,otro,no,sintetico,96
+274,¿Cómo devuelvo un producto que no me gustó? Aún está sellado,otro,no,sintetico,88
+275,Hace dos semanas hice el pedido y sigue diciendo preparando envío,envios,no,sintetico,38
+276,les escribo para proponer una alianza con mi marca de ropa,otro,no,sintetico,94
+277,intente pagar con nequi y la app se queda cargando sin confirmar,pagos,no,sintetico,18
+278,"Buenas tardes, ¿Cuáles son las medidas exactas de este escritorio? Gracias.",otro,no,sintetico,95
+279,pague con tarjeta pero la pagina me dice que el pago no fue aprobado y ya me descontaron la plata,pagos,si,sintetico,2
+280,Pagué contra entrega y el domiciliario me dijo que el valor era distinto al de la orden,pagos,no,sintetico,14
+281,"Buenas tardes, ¿Los productos de esta marca son originales? Gracias.",otro,no,sintetico,98
+282,me gustaria que agregaran mas opciones de productos para mascotas,otro,no,sintetico,79
+283,olvide mi contrasena y el correo de recuperacion nunca llega,cuenta,no,sintetico,52
+284,El saldo a favor de mi devolución no aparece en mi cuenta,pagos,no,sintetico,24
+285,"Mi cuenta fue suspendida por actividad sospechosa, pero yo solo compré una vez",cuenta,si,sintetico,69
+286,por que me cobran el envio por separado si compre dos productos?,envios,no,sintetico,46
+287,"Hola equipo, pedí un medicamento de venta libre y necesito que llegue hoy, ¿es posible? Espero su respuesta.",envios,si,sintetico,42
+288,Me bloquearon la cuenta sin explicación y tengo un pedido pendiente,cuenta,si,sintetico,55
+289,"Estimados, ¿Hacen envíos a zonas rurales o solo a ciudades principales? Por favor respondan pronto.",envios,no,sintetico,36
+290,¿Por qué me cobran el envío por separado si compré dos productos?,envios,no,sintetico,46
+291,"Buenas tardes, me bloquearon la cuenta sin explicación y tengo un pedido pendiente Muchas gracias por su ayuda.",cuenta,si,sintetico,55
+292,esta chaqueta es impermeable o solo resistente al agua?,otro,no,sintetico,90
+293,¿Los productos de esta marca son originales?,otro,no,sintetico,98
+294,"me sale que mi usuario esta bloqueado por intentos fallidos, ayuda",cuenta,no,sintetico,73
+295,"Hola equipo, necesito el comprobante de pago para presentarlo en mi empresa Espero su respuesta.",pagos,no,sintetico,15
+296,"el cupón de descuento no se aplicó al momento de pagar, ¿qué hago? Quedo atento.",pagos,no,sintetico,8
+297,"Hola equipo, tengo una duda: ¿la tienda tiene política de cambios por talla? Por favor respondan pronto.",otro,no,sintetico,100
+298,me dieron un numero de guia que no funciona en la pagina de la transportadora,envios,no,sintetico,43
