@@ -9,7 +9,7 @@
 ![Estado](https://img.shields.io/badge/estado-en_desarrollo-orange)
 ![Datos](https://img.shields.io/badge/datos-ficticios-blue)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dasanmos/clasificador-reclamos/blob/main/notebooks/01_linea_base.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dasanmos/clasificador-reclamos/blob/main/01_linea_base.ipynb)
 
 *Proyecto del curso Estud-IA · Capa 2 · IA nivel intermedio*
 
@@ -82,8 +82,8 @@ Por eso **no basta con medir el acierto global**. Este proyecto reporta específ
 | **Origen actual** | Sintético (ficticio) |
 | **Tamaño actual** | 298 mensajes |
 | **Balance** | 25 mensajes base por categoría, con 3 variantes cada uno |
-| **Archivo** | [`datos/mensajes_sinteticos.csv`](datos/mensajes_sinteticos.csv) |
-| **Generador** | [`src/generar_datos.py`](src/generar_datos.py) (semilla fija 42) |
+| **Archivo** | [`mensajes_sinteticos.csv`](mensajes_sinteticos.csv) |
+| **Generador** | [`generar_datos.py`](generar_datos.py) (semilla fija 42) |
 
 **Columnas:**
 
@@ -130,7 +130,7 @@ Por eso **no basta con medir el acierto global**. Este proyecto reporta específ
 
 1. Pulsa el botón **Abrir en Colab** de arriba.
 2. Ejecuta las celdas en orden con `Shift + Enter`.
-3. Cuando se pida, sube `datos/mensajes_sinteticos.csv`.
+3. Cuando se pida, sube `mensajes_sinteticos.csv`.
 
 ### Opción B: en local
 
@@ -138,13 +138,13 @@ Por eso **no basta con medir el acierto global**. Este proyecto reporta específ
 git clone https://github.com/dasanmos/clasificador-reclamos.git
 cd clasificador-reclamos
 pip install pandas scikit-learn matplotlib transformers torch
-jupyter notebook notebooks/01_linea_base.ipynb
+jupyter notebook 01_linea_base.ipynb
 ```
 
 ### Regenerar los datos sintéticos
 
 ```bash
-python src/generar_datos.py datos/mensajes_sinteticos.csv
+python generar_datos.py mensajes_sinteticos.csv
 ```
 
 ## 📁 Estructura del repositorio
@@ -152,12 +152,9 @@ python src/generar_datos.py datos/mensajes_sinteticos.csv
 ```
 clasificador-reclamos/
 ├── README.md
-├── datos/
-│   └── mensajes_sinteticos.csv
-├── notebooks/
-│   └── 01_linea_base.ipynb
-└── src/
-    └── generar_datos.py
+├── mensajes_sinteticos.csv
+├── 01_linea_base.ipynb
+└── generar_datos.py
 ```
 
 ## 🚧 Límites conocidos
