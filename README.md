@@ -9,7 +9,7 @@
 ![Estado](https://img.shields.io/badge/estado-en_desarrollo-orange)
 ![Datos](https://img.shields.io/badge/datos-ficticios-blue)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/clasificador-reclamos/blob/main/notebooks/01_linea_base.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dasanmos/clasificador-reclamos/blob/main/notebooks/01_linea_base.ipynb)
 
 *Proyecto del curso Estud-IA · Capa 2 · IA nivel intermedio*
 
@@ -135,7 +135,7 @@ Por eso **no basta con medir el acierto global**. Este proyecto reporta específ
 ### Opción B: en local
 
 ```bash
-git clone https://github.com/TU_USUARIO/clasificador-reclamos.git
+git clone https://github.com/dasanmos/clasificador-reclamos.git
 cd clasificador-reclamos
 pip install pandas scikit-learn matplotlib transformers torch
 jupyter notebook notebooks/01_linea_base.ipynb
@@ -190,6 +190,6 @@ clasificador-reclamos/
 
 <div align="center">
 
-Hecho con 🧡 en el curso **Estud-IA** · Autor: _TU NOMBRE_
+Hecho con 🧡 en el curso **Estud-IA** · Autor: David Santiago Mosquera
 
 </div>
